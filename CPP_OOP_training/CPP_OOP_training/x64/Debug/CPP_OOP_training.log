@@ -1,0 +1,58 @@
+﻿  CPP_OOP_training.cpp
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsUtil.h(201,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CPP_OOP_training.cpp')
+  
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsUtil.h(201,91): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CPP_OOP_training.cpp')
+  
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsUtil.h(210,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CPP_OOP_training.cpp')
+  
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsUtil.h(210,91): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CPP_OOP_training.cpp')
+  
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsUtil.h(218,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CPP_OOP_training.cpp')
+  
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsUtil.h(218,91): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CPP_OOP_training.cpp')
+  
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsString.h(89,19): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'CPP_OOP_training.cpp')
+  
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsString.h(312,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'CPP_OOP_training.cpp')
+  
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsUser.h(332,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'CPP_OOP_training.cpp')
+      D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsUser.h(29,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsBankClient.h(367,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogs' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'CPP_OOP_training.cpp')
+      D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLogs'
+  
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsBankClient.h(32,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'CPP_OOP_training.cpp')
+  
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsBankClient.h(33,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'CPP_OOP_training.cpp')
+  
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsBankClient.h(34,33): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'CPP_OOP_training.cpp')
+  
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsBankClient.h(47,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'CPP_OOP_training.cpp')
+  
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsBankClient.h(322,10): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'CPP_OOP_training.cpp')
+  
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsTotalBalancesScreen.h(64,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'CPP_OOP_training.cpp')
+  
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsBankClient.h(287,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsUser.h(278,1): warning C4715: 'clsUser::Save': not all control paths return a value
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsCurrencyExchange.h(172,1): warning C4715: 'clsCurrencyExchange::Find_By_Currency_Code': not all control paths return a value
+D:\VS_projects\CPP_OOP_training\CPP_OOP_training\clsCurrencyExchange.h(150,1): warning C4715: 'clsCurrencyExchange::Find_By_Country': not all control paths return a value
+  CPP_OOP_training.vcxproj -> D:\VS_projects\CPP_OOP_training\x64\Debug\CPP_OOP_training.exe
